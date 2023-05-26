@@ -40,3 +40,8 @@
         text-decoration: none;
         display: block;
         }
+
+        .principal-titulo{
+            font-size: 28px;
+            font-weight: 700;
+        }
