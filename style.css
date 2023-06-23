@@ -95,6 +95,13 @@
         }
 
 
+.dispositivos.lista{
+ display: flex;
+ list-style-type: none;
+ margin: 80px 0;
+}
 
-
+.dispositivos{
+  text-align:  center;
+}
 
